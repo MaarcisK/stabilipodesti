@@ -1,9 +1,6 @@
-#Stabili podesti (Mārcis un Druvis 10.a) v2
-garums = float(input())
-platums = float(input())
-augstums = float(input())
-def materialuAprekins(garums, platums, augstums, skaits):
-  garums, platums, augstums = float(input())
-  skaits = int(input())
-  return
+garums = float(input("Kāds ir nepieciešamais podestu garums cm? "))
+platums = float(input("Kāds ir nepieciešamais podestu platums cm? "))
+augstums = float(input("Kāds ir nepieciešamais podestu augstums cm? "))
+skaits = int(input("Kāds ir nepieciešamo podestu skaits cm? "))
 
+def materialuAprekins(garums, platums, augstums, skaits):
