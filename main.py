@@ -10,4 +10,4 @@ materialuAprekins(garums ,platums, augstums, skaits)
 x = skaits * 6 #finieri
 y = skaits * 8 #stūri
 z = skaits * 12 #līstes
-print("Tad būs nepieciešamas " + str(x) + " finieru plāksnes, " + str(y) + " stūri un " + str(z) + " līstes.")
+print("Tad iztērēs " + str(x) + " finieru plāksnes, " + str(y) + " stūri un " + str(z) + " līstes.")
